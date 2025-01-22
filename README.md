@@ -1,1 +1,1 @@
-# MUSEUM ART AND ARTWORKS EDA+ML Model
+# Museum artwork and artists EDA and ML model implementation 
